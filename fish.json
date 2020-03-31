@@ -1,0 +1,314 @@
+{
+    "anchovy": {
+        "sellPrice": 200,
+        "location": "Ocean"
+    },
+    "angelfish": {
+        "sellPrice": 3000,
+        "location": "River"
+    },
+    "arpaima": {
+        "sellPrice": 10000,
+        "location": "River"
+    },
+    "arowana": {
+        "sellPrice": 10000,
+        "location": "River"
+    },
+    "barred knifejaw": {
+        "sellPrice": 5000,
+        "location": "Ocean"
+    },
+    "barreleye": {
+        "sellPrice": 15000,
+        "location": "Ocean"
+    },
+    "bitterling": {
+        "sellPrice": 900,
+        "location": "River"
+    },
+    "bass": {
+        "sellPrice": 400,
+        "location": "River"
+    },
+    "black bass": {
+        "sellPrice":300,
+        "locartion":"River"
+    },
+    "blowfish": {
+        "sellPrice": 5000,
+        "location": "Ocean"
+    },
+    "blue marlin": {
+        "sellPrice": 10000,
+        "location": "Pier"
+    },
+    "bluegill": {
+        "sellPrice": 180,
+        "location": "River"
+    },
+    "butterflyfish": {
+        "sellPrice": 1000,
+        "location": "Ocean"
+    },
+    "carp": {
+        "sellPrice": 300,
+        "location": "Pond"
+    },
+    "char": {
+        "sellPrice": 3800,
+        "location": "Ocean"
+    },
+    "cherry salmon": {
+        "sellPrice": 1000,
+        "location": "Clifftop"
+    },
+    "clownfish": {
+        "sellPrice": 650,
+        "location": "Ocean"
+    },
+    "coelacanth": {
+        "sellPrice": 15000,
+        "location": "Ocean"
+    },
+    "crawfish": {
+        "sellPrice": 200,
+        "location": "Pond"
+    },
+    "crucian carp": {
+        "sellPrice": 260,
+        "location": "River"
+    },
+    "dab": {
+        "sellPrice": 300,
+        "location": "Ocean"
+    },
+    "dace": {
+        "sellPrice": 240,
+        "location": "River"
+    },
+    "dorado": {
+        "sellPrice": 15000,
+        "location": "River"
+    },
+    "football fish": {
+        "sellPrice": 2500,
+        "location": "Ocean"
+    },
+    "freshwater goby": {
+        "sellPrice": 400,
+        "location": "River"
+    },
+    "frog": {
+        "sellPrice": 120,
+        "location": "Pond"
+    },
+    "gar": {
+        "sellPrice": 6000,
+        "location": "Pond"
+    },
+    "giant snakehead": {
+        "sellPrice": 5500,
+        "location": "River"
+    },
+    "giant trevally": {
+        "sellPrice": 4500,
+        "location": "Ocean"
+    },
+    "golden trout": {
+        "sellPrice": 15000,
+        "location": "Clifftop"
+    },
+    "goldfish": {
+        "sellPrice": 1300,
+        "location": "River"
+    },
+    "great white shark": {
+        "sellPrice": 15000,
+        "location": "Ocean"
+    },
+    "guppy": {
+        "sellPrice": 1300,
+        "location": "River"
+    },
+    "hammerhead shark": {
+        "sellPrice": 8000,
+        "location": "Ocean"
+    },
+    "horse mackerel": {
+        "sellPrice": 150,
+        "location": "Ocean"
+    },
+    "killifish": {
+        "sellPrice": 300,
+        "location": "Pond"
+    },
+    "king salmon": {
+        "sellPrice": 1800,
+        "location": "Mouth"
+    },
+    "koi": {
+        "sellPrice": 4000,
+        "location": "Pond"
+    },
+    "loach": {
+        "sellPrice": 400,
+        "location": "River"
+    },
+    "mahi-mahi": {
+        "sellPrice": 6000,
+        "location": "Pier"
+    },
+    "mitten crab": {
+        "sellPrice": 2000,
+        "location": "River"
+    },
+    "moray eel": {
+        "sellPrice": 2000,
+        "location": "Ocean"
+    },
+    "napoleonfish": {
+        "sellPrice": 10000,
+        "location": "Ocean"
+    },
+    "neon tetra": {
+        "sellPrice": 500,
+        "location": "River"
+    },
+    "nibble fish": {
+        "sellPrice": 1500,
+        "location": "River"
+    },
+    "oarfish": {
+        "sellPrice": 9000,
+        "location": "Ocean"
+    },
+    "sunfish": {
+        "sellPrice": 4000,
+        "location": "Ocean"
+    },
+    "olive flounder": {
+        "sellPrice": 800,
+        "location": "Ocean"
+    },
+    "pale chub": {
+        "sellPrice": 200,
+        "location": "River"
+    },
+    "pike": {
+        "sellPrice": 1800,
+        "location": "River"
+    },
+    "piranha": {
+        "sellPrice": 6500,
+        "location": "River"
+    },
+    "pond smelt": {
+        "sellPrice": 300,
+        "location": "River"
+    },
+    "popeyed goldfish": {
+        "sellPrice": 1300,
+        "location": "Pond"
+    },
+    "puffer fish": {
+        "sellPrice": 240,
+        "location": "Ocean"
+    },
+    "rainbow trout": {
+        "sellPrice": 800,
+        "location": "River"
+    },
+    "ranchu goldfish": {
+        "sellPrice": 4500,
+        "location": "Pond"
+    },
+    "ray": {
+        "sellPrice": 3000,
+        "location": "Ocean"
+    },
+    "red snapper": {
+        "sellPrice": 3000,
+        "location": "Ocean"
+    },
+    "ribbon eel": {
+        "sellPrice": 600,
+        "location": "Ocean"
+    },
+    "saddled bichir": {
+        "sellPrice": 4000,
+        "location": "River"
+    },
+    "salmon": {
+        "sellPrice": 700,
+        "location": "River"
+    },
+    "saw shark": {
+        "sellPrice": 12000,
+        "location": "Ocean"
+    },
+    "sea bass": {
+        "sellPrice": 400,
+        "location": "Ocean"
+    },
+    "sea butterfly": {
+        "sellPrice": 1000,
+        "location": "Ocean"
+    },
+    "seahorse": {
+        "sellPrice": 1100,
+        "location": "Ocean"
+    },
+    "soft-shelled turtle": {
+        "sellPrice": 3750,
+        "location": "River"
+    },
+    "squid": {
+        "sellPrice": 500,
+        "location": "Ocean"
+    },
+    "stringfish": {
+        "sellPrice": 15000,
+        "location": "Clifftop"
+    },
+    "sturgeon": {
+        "sellPrice": 10000,
+        "location": "Mouth"
+    },
+    "suckerfish": {
+        "sellPrice": 1500,
+        "location": "Ocean"
+    },
+    "surgeonfish": {
+        "sellPrice": 1000,
+        "location": "Ocean"
+    },
+    "sweetfish": {
+        "sellPrice": 900,
+        "location": "River"
+    },
+    "tadpole": {
+        "sellPrice": 100,
+        "location": "Pond"
+    },
+    "tilapia": {
+        "sellPrice": 800,
+        "location": "River"
+    },
+    "tuna": {
+        "sellPrice": 7000,
+        "location": "Ocean"
+    },
+    "whale shark": {
+        "sellPrice": 13000,
+        "location": "Ocean"
+    },
+    "yellow perch": {
+        "sellPrice": 300,
+        "locaton": "River"
+    },
+    "zebra turkeyfish": {
+        "sellPrice": 400,
+        "location": "Ocean"
+    }
+}
