@@ -30,4 +30,4 @@ def write(name):
 
 def read(name):
     with open(name) as f:
-        stuff = dict(json.load(name))
+        stuff = dict(json.load(f))

@@ -3,13 +3,15 @@ import api
 api.load_inv()
 
 cmd = input(":")
-#i -> enter inventory
-#s -> search
+#a-i -> add insect
+#a-f -> add fish
+#s-f -> search fish
+#s-i -> seach insects
 #q -> quit
 #w -> sell
 #c -> compare
 #l -> list
-#r -> remove
+#r -> remove from inventory
 #su-in -> edit insects
 #su-fi -> edit fish
 
