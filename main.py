@@ -10,6 +10,8 @@ cmd = input(":")
 #c -> compare
 #l -> list
 #r -> remove
+#su-in -> edit insects
+#su-fi -> edit fish
 
 while(cmd != "q"):
     api.do_cmd(cmd)
