@@ -49,6 +49,9 @@ while(cmd[0] != "q"):
         print(inv.compare(misc.search(cmd[1])))
     elif cmd[0] == "r":
         inv.remove(cmd[1])
+    elif cmd[0] == "w":
+        inv.clear()
+    cmd = input(":").split(" ", 1)
 
 if(cmd[0] == "q"):
     inv.write()
