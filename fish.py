@@ -1,6 +1,8 @@
 import json
 
-data = dict(json.load(open("fish.json")))
+path = "/Users/charlestonpoet/git/new-horizons/resources/fish.json"
+
+data = dict(json.load(open(path)))
 
 # str -> dict
 def search(name):
@@ -30,8 +32,7 @@ def get_loc(s):
         return "River"
 
 # str -> None
-def add():
-    name = input("name: " ) #get name
+def add(name):
     price = int(input("price: ")) #get price
     location = input("Location (o, po, pr, cl, mo, r") #get location code
 
@@ -39,24 +40,22 @@ def add():
 
     data[name] = f # add to dict
 
-    with open("fish.json", "w") as f:
+    with open(path, "w") as f:
         json.dump(data, f)
 
 # str -> None
-def remove():
-    name = input("name: ") #get name
-
+def remove(name):
     data.pop(name)
     
-    with open("fish.json", "w") as f:
+    with open(path, "w") as f:
         json.dump(data, f)
 
 def edit():
     cmd = "_"
     
     while cmd != "q":
-        cmd = input("Editing fish database\na - add\nr - remove\nq - quit\n:")
-        if cmd == "a":
-            add()
-        elif cmd == "r":
-            remove()
+        cmd = input("Editing fish database\na - add\nr - remove\nq - quit\n:").split(" ", 1)
+        if cmd[0] == "a":
+            add(cmd[1])
+        elif cmd[0] == "r":
+            remove(cmd[1])

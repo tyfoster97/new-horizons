@@ -1,6 +1,7 @@
 import json
 
-data = dict(json.load(open("insects.json")))
+path = "/Users/charlestonpoet/git/new-horizons/resources/insects.json"
+data = dict(json.load(open(path)))
 
 # str -> dict
 def search(name):
@@ -48,8 +49,7 @@ def get_loc(s):
     else:
         return s
 
-def add():
-    name = input("name: ")
+def add(name):
     price = int(input("price: "))
     loc = input("location (f, rf, ot, t, g, ir, ts, w, b, v, tr, fl, u, wf, pf, or): ")
 
@@ -57,21 +57,19 @@ def add():
 
     data[name] = i
 
-    json.dump(data, open("insects.json", "w"))
+    json.dump(data, open(path, "w"))
 
-def remove():
-    name = input("name: ")
-
+def remove(name):
     data.pop(name)
 
-    json.dump(data, open("insects.json"), "w")
+    json.dump(data, open(path), "w")
 
 def edit():
     cmd = "-"
 
-    while cmd != "q":
-        cmd = input("Editing insect database\na - add\nr - remove\nq - quit\n:")
-        if cmd == "a":
-            add()
-        elif cmd == "r":
-            remove()
+    while cmd[0] != "q":
+        cmd = input("Editing insect database\na - add\nr - remove\nq - quit\n:").split(" ", 1)
+        if cmd[0] == "a":
+            add(cmd[1])
+        elif cmd[0] == "r":
+            remove(cmd[1])

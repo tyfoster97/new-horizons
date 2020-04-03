@@ -1,0 +1,322 @@
+{
+    "agrias butterfly": {
+        "sellPrice": 3000,
+        "location": "Flying"
+    },
+    "ant": {
+        "sellPrice": 80,
+        "location": "Rotten Food"
+    },
+    "atlas moth": {
+        "sellPrice": 3000,
+        "location": "On Tree"
+    },
+    "bagworm": {
+        "sellPrice": 600,
+        "location": "In Tree"
+    },
+    "banded dragonfly": {
+        "sellPrice": 4500,
+        "location": "Flying"
+    },
+    "bell cricket": {
+        "sellPrice": 430,
+        "location": "Ground"
+    },
+    "blue weevil beetle": {
+        "sellPrice": 800,
+        "location": "unknown"
+    },
+    "brown cicada": {
+        "sellPrice": 250,
+        "location": "On Tree"
+    },
+    "centipede": {
+        "sellPrice": 300,
+        "location": "In Rock"
+    },
+    "cicada shell": {
+        "sellPrice": 10,
+        "location": "On Tree"
+    },
+    "citrus long-horn beetle": {
+        "sellPrice": 350,
+        "location": "Stump"
+    },
+    "common bluebottle": {
+        "sellPrice": 300,
+        "location": "Flying"
+    },
+    "common butterfly": {
+        "sellPrice": 160,
+        "location": "Flying"
+    },
+    "cricket": {
+        "sellPrice": 130,
+        "location": "Ground"
+    },
+    "cyclommatus stag": {
+        "sellPrice": 8000,
+        "location": "On Tree"
+    },
+    "damselfly": {
+        "sellPrice": 500,
+        "location": "Flying"
+    },
+    "darner dragonfly": {
+        "sellPrice": 230,
+        "location": "Flying"
+    },
+    "diving beetle": {
+        "sellPrice": 800,
+        "location": "Water"
+    },
+    "drone beetle": {
+        "sellPrice": 200,
+        "location": "On Tree"
+    },
+    "dung beetle": {
+        "sellPrice": 3000,
+        "location": "Push Snow"
+    },
+    "earth-boring dung beetle": {
+        "sellPrice": 300,
+        "location": "Ground"
+    },
+    "emperor butterfly": {
+        "sellPrice": 4000,
+        "location": "Flying"
+    },
+    "evening cicada": {
+        "sellPrice": 660,
+        "location": "On Tree"
+    },
+    "firefly": {
+        "sellPrice": 300,
+        "location": "Flying"
+    },
+    "flea": {
+        "sellPrice": 70,
+        "location": "Villager"
+    },
+    "fly": {
+        "sellPrice": 60,
+        "location": "Trash"
+    },
+    "giant cicada": {
+        "sellPrice": 600,
+        "location": "On Tree"
+    },
+    "giant stag": {
+        "sellPrice": 10000,
+        "location": "On Tree"
+    },
+    "giant water bug": {
+        "sellPrice": 2000,
+        "location": "Water"
+    },
+    "giraffe stag": {
+        "sellPrice": -1,
+        "location": "On Tree"
+    },
+    "golden stag": {
+        "sellPrice": -1,
+        "location": "On Tree"
+    },
+    "goliath beetle": {
+        "sellPrice": 8000,
+        "location": "Coconut Tree"
+    },
+    "grasshopper": {
+        "sellPrice": 160,
+        "location": "Ground"
+    },
+    "great purple emperor": {
+        "sellPrice": 3000,
+        "location": "Flying"
+    },
+    "hermit crab": {
+        "sellPrice": 1000,
+        "location": "Beach"
+    },
+    "honeybee": {
+        "sellPrice": 200,
+        "location": "Flying"
+    },
+    "horned atlas": {
+        "sellPrice": 8000,
+        "location": "On Tree"
+    },
+    "horned dynastid": {
+        "sellPrice": 1350,
+        "location": "On Tree"
+    },
+    "horned elephant": {
+        "sellPrice": 8000,
+        "location": "On Tree"
+    },
+    "horned hercules": {
+        "sellPrice": -1,
+        "location": "On Tree"
+    },
+    "jewel beetle": {
+        "sellPrice": 2400,
+        "location": "On Tree"
+    },
+    "ladybug": {
+        "sellPrice": 200,
+        "location": "Flowers"
+    },
+    "long locust": {
+        "sellPrice": 200,
+        "location": "Ground"
+    },
+    "madagascan sunset moth": {
+        "sellPrice": 2500,
+        "location": "Flying"
+    },
+    "man-faced stink bug": {
+        "sellPrice": 1000,
+        "location": "Flowers"
+    },
+    "mantis": {
+        "sellPrice": 430,
+        "location": "Flowers"
+    },
+    "migratoty locusts": {
+        "sellPrice": 600,
+        "location": "Ground"
+    },
+    "miyama stag": {
+        "sellPrice": 1000,
+        "location": "On Tree"
+    },
+    "mole cricket": {
+        "sellPrice": 500,
+        "location": "Underground"
+    },
+    "monarch butterfly": {
+        "sellPrice": 140,
+        "location": "Flying"
+    },
+    "mosquito": {
+        "sellPrice": 130,
+        "location": "Flying"
+    },
+    "moth": {
+        "sellPrice": 130,
+        "location": "Flying"
+    },
+    "orchid mantis": {
+        "sellPrice": 2400,
+        "location": "White Flowers"
+    },
+    "paper kite butterfly": {
+        "sellPrice": 1000,
+        "location": "Flying"
+    },
+    "peacock butterfly": {
+        "sellPrice": 2500,
+        "location": "Flowers"
+    },
+    "pill bug": {
+        "sellPrice": 250,
+        "location": "In Rock"
+    },
+    "pondskater": {
+        "sellPrice": 130,
+        "location": "Water"
+    },
+    "queen alexandras birdwing": {
+        "sellPrice": 4000,
+        "location": "Flying"
+    },
+    "rainbow stag": {
+        "sellPrice": 6000,
+        "location": "On Tree"
+    },
+    "raja brookes birdwing": {
+        "sellPrice": 2500,
+        "location": "Purple Flowers"
+    },
+    "red dragonfly": {
+        "sellPrice": 180,
+        "location": "Flying"
+    },
+    "rice grasshopper": {
+        "sellPrice": 160,
+        "location": "Ground"
+    },
+    "robust cicada": {
+        "sellPrice": 300,
+        "location": "On Tree"
+    },
+    "rosalia batesi beetle": {
+        "sellPrice": 3000,
+        "location": "Stump"
+    },
+    "saw stag": {
+        "sellPrice": 2000,
+        "location": "On Tree"
+    },
+    "scarab beetle": {
+        "sellPrice": 10000,
+        "location": "On Tree"
+    },
+    "scorpion": {
+        "sellPrice": 8000,
+        "location": "Ground"
+    },
+    "snail": {
+        "sellPrice": 250,
+        "location": "On Rock"
+    },
+    "spider": {
+        "sellPrice": 480,
+        "location": "it"
+    },
+    "stinkbug": {
+        "sellPrice": 120,
+        "location": "Flowers"
+    },
+    "tarantula": {
+        "sellPrice": 8000,
+        "location": "Ground"
+    },
+    "tiger beetle": {
+        "sellPrice": 1500,
+        "location": "Ground"
+    },
+    "tiger butterfly": {
+        "sellPrice": 240,
+        "location": "Flying"
+    },
+    "violin beetle": {
+        "sellPrice": 450,
+        "location": "Stump"
+    },
+    "walker cicada": {
+        "sellPrice": 400,
+        "location": "On Tree"
+    },
+    "walking leaf": {
+        "sellPrice": 600,
+        "location": "Near Tree, Leaf"
+    },
+    "walking stick": {
+        "sellPrice": 600,
+        "location": "In Tree"
+    },
+    "wasp": {
+        "sellPrice": 2500,
+        "location": "In Tree"
+    },
+    "wharf roach": {
+        "sellPrice": 200,
+        "location": "On Rock"
+    },
+    "yellow butterfly": {
+        "sellPrice": 160,
+        "location": "Flying"
+    }
+}

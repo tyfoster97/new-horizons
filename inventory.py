@@ -1,15 +1,19 @@
 import json
 
 stuff = dict()
+path = "/Users/charlestonpoet/git/new-horizons/resources/inv.json"
 
 def add(item, data):
     stuff[item] = data
+    write()
 
 def remove(item):
-    del stuff[item]
+    stuff.pop(item)
+    write()
 
 def clear():
     stuff.clear()
+    write()
 
 def get(item):
     return stuff[item]
@@ -24,10 +28,15 @@ def compare(data):
 def all():
     return stuff
 
-def write(name):
-    with open(name, "w") as f:
+def write():
+    with open(path, "w") as f:
         json.dump(stuff, f)
 
-def read(name):
-    with open(name) as f:
-        stuff = dict(json.load(f))
+def load():
+    with open(path) as f:
+        return dict(json.load(f))
+
+def read():
+    stuff = load()
+
+stuff = load()
