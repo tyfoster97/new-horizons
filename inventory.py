@@ -1,7 +1,10 @@
 import json
 
 stuff = dict()
-path = "/Users/charlestonpoet/git/new-horizons/resources/inv.json"
+import os
+
+dirname = os.path.dirname(__file__)
+path = dirname + "/resources/inv.json"
 
 def add(item, data):
     stuff[item] = data

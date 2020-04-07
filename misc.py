@@ -1,6 +1,8 @@
 import json
+import os
 
-path = "/Users/charlestonpoet/git/new-horizons/resources/misc.json"
+dirname = os.path.dirname(__file__)
+path = dirname + "/resources/misc.json"
 data = json.load(open(path))
 
 # str -> dict
