@@ -1,1 +1,82 @@
-{"conch": {"sellPrice": 700, "location": "beach"}, "coral": {"sellPrice": 250, "location": "beach"}, "cowrie": {"sellPrice": 60, "location": "beach"}, "giant clam": {"sellPrice": 450, "location": "beach"}, "oyster shell": {"sellPrice": 450, "location": "beach"}, "pearl oyster": {"sellPrice": 1200, "location": "beach"}, "porceletta": {"sellPrice": 30, "location": "beach"}, "sand dollar": {"sellPrice": 120, "location": "beach"}, "sea snail": {"sellPrice": 180, "location": "beach"}, "scallop shell": {"sellPrice": 600, "location": "beach"}, "venus comb": {"sellPrice": 150, "location": "beach"}, "white scallop": {"sellPrice": 450, "location": "beach"}, "wasp nest": {"sellPrice": 300, "location": "tree"}, "medicine": {"sellPrice": 100, "location": "diy"}, "coconut": {"sellPrice": 250, "location": "tree"}, "pear": {"sellPrice": 100, "location": "tree"}, "apple": {"sellPrice": 500, "location": "tree"}, "cherry": {"sellPrice": 500, "location": "tree"}, "orange": {"sellPrice": 500, "location": "tree"}, "peach": {"sellPrice": 500, "location": "tree"}}
+{
+    "conch": {
+        "sellPrice": 700,
+        "location": "beach"
+    },
+    "coral": {
+        "sellPrice": 250,
+        "location": "beach"
+    },
+    "cowrie": {
+        "sellPrice": 60,
+        "location": "beach"
+    },
+    "giant clam": {
+        "sellPrice": 450,
+        "location": "beach"
+    },
+    "oyster shell": {
+        "sellPrice": 450,
+        "location": "beach"
+    },
+    "pearl oyster": {
+        "sellPrice": 1200,
+        "location": "beach"
+    },
+    "porceletta": {
+        "sellPrice": 30,
+        "location": "beach"
+    },
+    "sand dollar": {
+        "sellPrice": 120,
+        "location": "beach"
+    },
+    "sea snail": {
+        "sellPrice": 180,
+        "location": "beach"
+    },
+    "scallop shell": {
+        "sellPrice": 600,
+        "location": "beach"
+    },
+    "venus comb": {
+        "sellPrice": 150,
+        "location": "beach"
+    },
+    "white scallop": {
+        "sellPrice": 450,
+        "location": "beach"
+    },
+    "wasp nest": {
+        "sellPrice": 300,
+        "location": "tree"
+    },
+    "medicine": {
+        "sellPrice": 100,
+        "location": "diy"
+    },
+    "coconut": {
+        "sellPrice": 250,
+        "location": "tree"
+    },
+    "pear": {
+        "sellPrice": 100,
+        "location": "tree"
+    },
+    "apple": {
+        "sellPrice": 500,
+        "location": "tree"
+    },
+    "cherry": {
+        "sellPrice": 500,
+        "location": "tree"
+    },
+    "orange": {
+        "sellPrice": 500,
+        "location": "tree"
+    },
+    "peach": {
+        "sellPrice": 500,
+        "location": "tree"
+    }
+}
