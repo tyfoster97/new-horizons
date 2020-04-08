@@ -55,8 +55,8 @@ def remove(name):
 def edit():
     cmd = "_"
     
-    while cmd != "q":
-        cmd = input("Editing fish database\na - add\nr - remove\nq - quit\n:").split(" ", 1)
+    while cmd[0] != "q":
+        cmd = input("Editing fish database\na {name}- add\nr {name} - remove\nq - quit\n:").split(" ", 1)
         if cmd[0] == "a":
             add(cmd[1])
         elif cmd[0] == "r":
