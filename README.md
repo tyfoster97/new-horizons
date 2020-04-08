@@ -1,6 +1,16 @@
 # new-horizons
 Simple Text UI based program for tracking Animal Crossing: New Horizons inventory
 
+## Installation
+
+1. git clone http://github.com/tyfoster97/new-horizons.git
+
+## Use
+
+1. Navigate to directory containing main.py
+2. From command line type 'python3 main.py'
+3. Execute commands below until done
+
 ## Commands
 
 **ai {name}**:
