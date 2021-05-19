@@ -1,6 +1,14 @@
 # new-horizons
 Simple Text UI based program for tracking Animal Crossing: New Horizons inventory
 
+## Motivation
+Reduce the time needed to determine what item should be dropped from character inventory to maximize sale price of inventory
+
+## Demonstrates
+- Data Structures & Algorithms
+- Python
+- Text UI application
+
 ## Installation
 
 1. git clone http://github.com/tyfoster97/new-horizons.git
